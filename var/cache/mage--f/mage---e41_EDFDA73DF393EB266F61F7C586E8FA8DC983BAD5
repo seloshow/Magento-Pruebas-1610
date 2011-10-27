@@ -1,0 +1,293 @@
+
+<!-- menu start -->
+
+<!-- menu end -->
+<div class="nav-bar">
+    <ul id="nav">
+                <li  class="  active  level0"> <a href="http://local.pruebas1610.com/index.php/admin/dashboard/index/key/$dashboard/index$/"   class="active"><span>Panel de control</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Ventas</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/sales_order/index/key/$sales_order/index$/"   class=""><span>Pedidos</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/sales_invoice/index/key/$sales_invoice/index$/"   class=""><span>Facturas</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/sales_shipment/index/key/$sales_shipment/index$/"   class=""><span>Envíos</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/sales_creditmemo/index/key/$sales_creditmemo/index$/"   class=""><span>Facturas rectificativas</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/sales_transactions/index/key/$sales_transactions/index$/"   class=""><span>Transacciones</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/sales_recurring_profile/index/key/$sales_recurring_profile/index$/"   class=""><span>Perfiles Repetitivos (beta)</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/sales_billing_agreement/index/key/$sales_billing_agreement/index$/"   class=""><span>Contratos de facturación</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/checkout_agreement/index/key/$checkout_agreement/index$/"   class=""><span>Términos y condiciones</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent last level1"> <a href="#"  onclick="return false" class=""><span>Impuestos</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/tax_rule/index/key/$tax_rule/index$/"   class=""><span>Gestión de las normas fiscales</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/tax_rate/index/key/$tax_rate/index$/"   class=""><span>Gestión de las Zonas de Impuestos y Precios</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/tax_rate/importExport/key/$tax_rate/importExport$/"   class=""><span>Tasas de Impuestos de Importación / Exportación</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/tax_class_customer/index/key/$tax_class_customer/index$/"   class=""><span>Tipos de impuestos del cliente</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/tax_class_product/index/key/$tax_class_product/index$/"   class=""><span>Tipos de Impuestos de Productos</span></a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Catálogo</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/catalog_product/index/key/$catalog_product/index$/"   class=""><span>Administrar productos</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/catalog_category/index/key/$catalog_category/index$/"   class=""><span>Administrar categorías</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Atributos</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/catalog_product_attribute/index/key/$catalog_product_attribute/index$/"   class=""><span>Administrar atributos</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/catalog_product_set/index/key/$catalog_product_set/index$/"   class=""><span>Administrar conjuntos de atributos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/urlrewrite/index/key/$urlrewrite/index$/"   class=""><span>Administración de reescritura de direcciones URL</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/catalog_search/index/key/$catalog_search/index$/"   class=""><span>Términos de búsqueda</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Revisiones y Valoraciones</span></a>
+                                <ul >
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level2"> <a href="#"  onclick="return false" class=""><span>Revisiones de Cliente</span></a>
+                                <ul >
+                <li  class="   level3"> <a href="http://local.pruebas1610.com/index.php/admin/catalog_product_review/pending/key/$catalog_product_review/pending$/"   class=""><span>Revisiones Pendientes</span></a>
+                    </li>
+                <li  class="   last level3"> <a href="http://local.pruebas1610.com/index.php/admin/catalog_product_review/index/key/$catalog_product_review/index$/"   class=""><span>Todas las Revisiones</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/rating/index/key/$rating/index$/"   class=""><span>Administrar puntuaciones</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Etiquetas</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/tag/index/key/$tag/index$/"   class=""><span>Todas la Etiquetas</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/tag/pending/key/$tag/pending$/"   class=""><span>Etiquetas Pendientes</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   last level1"> <a href="http://local.pruebas1610.com/index.php/admin/sitemap/index/key/$sitemap/index$/"   class=""><span>Google Sitemap      [[It's used the same way in Spanish]]</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Mobil</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/mobile/index/key/$mobile/index$/"   class=""><span>Apps verwalten</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/mobile/history/key/$mobile/history$/"   class=""><span>Bisherige Eingaben</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/mobile/template/key/$mobile/template$/"   class=""><span>Nachrichtenvorlagen</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://local.pruebas1610.com/index.php/admin/mobile/queue/key/$mobile/queue$/"   class=""><span>Nachrichten-Warteschlange</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Clientes</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/customer/index/key/$customer/index$/"   class=""><span>Gestionar Clientes</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/customer_group/index/key/$customer_group/index$/"   class=""><span>Grupos de Cliente</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://local.pruebas1610.com/index.php/admin/customer_online/index/key/$customer_online/index$/"   class=""><span>Clientes conectados</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Promociones</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/promo_catalog/index/key/$promo_catalog/index$/"   class=""><span>Catálogo de Normas sobre Precios</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://local.pruebas1610.com/index.php/admin/promo_quote/index/key/$promo_quote/index$/"   class=""><span>Reglas de Precio de Carro de Compra</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Boletín informativo</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/newsletter_template/index/key/$newsletter_template/index$/"   class=""><span>Plantillas de Boletín de Noticias</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/newsletter_queue/index/key/$newsletter_queue/index$/"   class=""><span>Cola de Boletín de Noticias</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/newsletter_subscriber/index/key/$newsletter_subscriber/index$/"   class=""><span>Suscriptores de Boletín de Noticias</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://local.pruebas1610.com/index.php/admin/newsletter_problem/index/key/$newsletter_problem/index$/"   class=""><span>Informe de Problemas del Boletín de Noticias</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>CMS</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/cms_page/index/key/$cms_page/index$/"   class=""><span>Páginas</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/cms_block/index/key/$cms_block/index$/"   class=""><span>Bloques estáticos</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/widget_instance/index/key/$widget_instance/index$/"   class=""><span>Aplicaciones</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://local.pruebas1610.com/index.php/admin/poll/index/key/$poll/index$/"   class=""><span>Encuestas</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Informes</span></a>
+                                <ul >
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Ventas</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_sales/sales/key/$report_sales/sales$/"   class=""><span>Pedidos</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_sales/tax/key/$report_sales/tax$/"   class=""><span>Impuestos</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_sales/invoiced/key/$report_sales/invoiced$/"   class=""><span>Facturado</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_sales/shipping/key/$report_sales/shipping$/"   class=""><span>Transporte</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_sales/refunded/key/$report_sales/refunded$/"   class=""><span>Reembolsos</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_sales/coupons/key/$report_sales/coupons$/"   class=""><span>Cupones</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/paypal_reports/index/key/$paypal_reports/index$/"   class=""><span>Informes de Contrato de PayPal</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Cesta de la Compra</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_shopcart/product/key/$report_shopcart/product$/"   class=""><span>Productos en carros de la compra</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_shopcart/abandoned/key/$report_shopcart/abandoned$/"   class=""><span>Carros dejados</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Productos</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_sales/bestsellers/key/$report_sales/bestsellers$/"   class=""><span>Los más vendidos</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_product/sold/key/$report_product/sold$/"   class=""><span>Productos Encargados</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_product/viewed/key/$report_product/viewed$/"   class=""><span>Los Más Vistos</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_product/lowstock/key/$report_product/lowstock$/"   class=""><span>Pocas reservas</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_product/downloads/key/$report_product/downloads$/"   class=""><span>Descargas.</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Clientes</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_customer/accounts/key/$report_customer/accounts$/"   class=""><span>Cuentas Nuevas</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_customer/totals/key/$report_customer/totals$/"   class=""><span>Total de clientes por pedidos</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_customer/orders/key/$report_customer/orders$/"   class=""><span>Clientes por número de pedidos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Etiquetas</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_tag/customer/key/$report_tag/customer$/"   class=""><span>Clientes</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_tag/product/key/$report_tag/product$/"   class=""><span>Productos</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_tag/popular/key/$report_tag/popular$/"   class=""><span>Popular</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Reseñas</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_review/customer/key/$report_review/customer$/"   class=""><span>Reseñas de Clientes</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/report_review/product/key/$report_review/product$/"   class=""><span>Reseñas de Productos</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/report/search/key/$report/search$/"   class=""><span>Términos de búsqueda</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://local.pruebas1610.com/index.php/admin/report_statistics/index/key/$report_statistics/index$/"   class=""><span>Actualiza estadísticas</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Sistema</span></a>
+                                <ul >
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/system_account/index/key/$system_account/index$/"   class=""><span>Mi cuenta</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/notification/index/key/$notification/index$/"   class=""><span>Notificaciones</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Herramientas</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/system_backup/index/key/$system_backup/index$/"   class=""><span>Copias de seguridad</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/compiler_process/index/key/$compiler_process/index$/"   class=""><span>Compilación</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Servicios web</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/api_user/index/key/$api_user/index$/"   class=""><span>Usuarios</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/api_role/index/key/$api_role/index$/"   class=""><span>Roles</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/system_design/index/key/$system_design/index$/"   class=""><span>Diseño</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Importación/exportación</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/import/index/key/$import/index$/"   class=""><span>Importar</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/export/index/key/$export/index$/"   class=""><span>Exportar</span></a>
+                    </li>
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/system_convert_gui/index/key/$system_convert_gui/index$/"   class=""><span>Flujo de datos - Perfiles</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/system_convert_profile/index/key/$system_convert_profile/index$/"   class=""><span>Flujo de datos - Perfiles avanzados</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/system_currency/index/key/$system_currency/index$/"   class=""><span>Gestionar Tasa de Moneda</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/system_email_template/index/key/$system_email_template/index$/"   class=""><span>Emails Transaccionales</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/system_variable/index/key/$system_variable/index$/"   class=""><span>Variables personalizadas</span></a>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Permisos</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/permissions_user/index/key/$permissions_user/index$/"   class=""><span>Usuarios</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/permissions_role/index/key/$permissions_role/index$/"   class=""><span>Roles</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Magento Connect</span></a>
+                                <ul >
+                <li  class="   level2"> <a href="http://local.pruebas1610.com/index.php/admin/extension_local/index/key/$extension_local/index$/"   class=""><span>Administrador de Magento Connect</span></a>
+                    </li>
+                <li  class="   last level2"> <a href="http://local.pruebas1610.com/index.php/admin/extension_custom/index/key/$extension_custom/index$/"   class=""><span>Extensiones de paquete</span></a>
+                    </li>
+            </ul>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/cache/index/key/$cache/index$/"   class=""><span>Gestión de Caché.</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/process/list/key/$process/list$/"   class=""><span>Gestión de Índices</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/system_store/index/key/$system_store/index$/"   class=""><span>Gestionar Tiendas</span></a>
+                    </li>
+                <li  class="   level1"> <a href="http://local.pruebas1610.com/index.php/admin/sales_order_status/index/key/$sales_order_status/index$/"   class=""><span>Estados de los Pedidos</span></a>
+                    </li>
+                <li  class="   last level1"> <a href="http://local.pruebas1610.com/index.php/admin/system_config/index/key/$system_config/index$/"   class=""><span>Configuración</span></a>
+                    </li>
+            </ul>
+                    </li>
+            </ul>
+
+    <a id="page-help-link" href="http://www.magentocommerce.com/gethelp/es_ES/Mage_Adminhtml/dashboard/index/">Consiga ayuda para esta página</a>
+    <script type="text/javascript">$('page-help-link').target = 'magento_page_help'</script>
+
+</div>
+
